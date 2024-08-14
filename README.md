@@ -1,0 +1,14 @@
+# akita-user 14 AP2A.240805.005.A1 12030693 release-keys
+- manufacturer: google
+- platform: zuma
+- codename: akita
+- flavor: akita-user
+- release: 14
+- id: AP2A.240805.005.A1
+- incremental: 12030693
+- tags: release-keys
+- fingerprint: google/akita/akita:14/AP2A.240805.005.A1/12030693:user/release-keys
+- is_ab: true
+- brand: google
+- branch: akita-user-14-AP2A.240805.005.A1-12030693-release-keys
+- repo: google_akita_dump
